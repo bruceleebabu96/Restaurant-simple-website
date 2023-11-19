@@ -1,0 +1,59 @@
+.section_one {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.section_one p
+{
+color: gray;
+}
+.section_two,
+.section_three,
+.section_four,
+.section_five {
+  width: 300px;
+  height: 450px;
+  display: inline-block;
+  border: solid rgb(10, 1, 18) 3px;
+  margin: 10px;
+  padding: 0px;
+  vertical-align: top;
+  text-align: center;
+  
+}
+
+img {
+  width: 100%;
+  height: 60%;
+}
+
+.section_six
+{
+    background-color: black;
+
+color: white;
+text-align: center;
+}
+
+.section_two button, .section_three button, .section_four button, .section_five button
+{
+    background-color: black;
+    color: white;
+    padding: 5px;
+
+}
+.section_six table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.section_six button
+{
+    background-color: yellow;
+    width: 500px;
+}
+.center
+{
+    text-align: center;
+}
